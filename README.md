@@ -56,17 +56,17 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 
 <p align="center">
 <!-- 	<img height="150" width="150" src="webp/left.webp">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChatGTHB&" alt="ChatGTHB"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EbulfezMahmudzade&" alt="EbulfezMahmudzade"/>
 	<img height="150" width="150" src="webp/right.webp">
 	</br>
 	<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-        <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=ChatGTHB&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
-	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChatGTHB&show_icons=true&locale=en&layout=compact&langs_count=8" alt="ChatGTHB"/></a>
+        <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=EbulfezMahmudzade&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
+	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EbulfezMahmudzade&show_icons=true&locale=en&layout=compact&langs_count=8" alt="EbulfezMahmudzade"/></a>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!-- <p align="right">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=chatgthb&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage,Issues,Stars"alt="chatgthb"/</a>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=EbulfezMahmudzade&title=Commits,Repositories,PullRequest,Reviews,Followers,MultiLanguage,Issues,Stars"alt="EbulfezMahmudzade"/</a>
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
@@ -87,4 +87,4 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="chatgthb" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=EbulfezMahmudzade&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="EbulfezMahmudzade" /> </p>
