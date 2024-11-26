@@ -7,12 +7,11 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h2 align="center">🎤About Me</h2>
 
-A meticulous and detail-oriented SDET with extensive experience in manual and automated testing for web-based and mobile
-applications. Proficient in Java, Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman, and Rest Assured. Skilled 
-in database testing with MySQL and JDBC and well-versed in version control tools such as Git/GitHub. A former accountant with
-strong analytical and problem-solving skills, leveraging expertise in financial systems and processes to streamline workflows
-and ensure accuracy in Agile/Scrum environments. Brings exceptional attention to detail and a deep understanding of regulatory
-and compliance requirements to the IT field.
+A meticulous and detail-oriented SDET with extensive experience in manual and automated testing for web-based and mobile applications.
+Proficient in Java, Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman, and Rest Assured. Skilled in database testing with
+MySQL and JDBC and well-versed in version control tools such as Git/GitHub. A former accountant with strong analytical and problem-sol
+ving skills, leveraging expertise in financial systems and processes to streamline workflows and ensure accuracy in Agile/Scrum enviro
+nments. Brings exceptional attention to detail and a deep understanding of regulatory and compliance requirements to the IT field.
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 			
 <h2><p align="center">🧰Technologies and Tools</p></h2>				
