@@ -60,7 +60,7 @@ src="https://www.techlistic.com/ezoimgfmt/blogger.googleusercontent.com/img/b/R2
 	<img height="150" width="150" src="webp/right.webp">
 	</br>
 	<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-        <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=EbulfezMahmudzade&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
+    <img height="200em" align="center" src="https://github-contributor-stats.vercel.app/api?username=EbulfezMahmudzade&limit=5&theme=light&combine_all_yearly_contributions=true="/></a>
 	<img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EbulfezMahmudzade&show_icons=true&locale=en&layout=compact&langs_count=8" alt="EbulfezMahmudzade"/></a>
 </p>
 
